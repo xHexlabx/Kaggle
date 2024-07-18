@@ -4,4 +4,9 @@
 /Pre_Human_Activity_Recognition/features
 /Pre_Human_Activity_Recognition/AutogluonModels
 
-/har
+/Human_Activity_Recognition/database
+/Human_Activity_Recognition/datasets
+/Human_Activity_Recognition/submissions
+/Human_Activity_Recognition/AutogluonModels
+
+
