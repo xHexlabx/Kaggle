@@ -10,7 +10,7 @@
 
 <hr>
 
-#### Pre-Human_Activity_Recognition
+#### Pre_Human_Activity_Recognition
 
 <p>
  📈 ใน Hackathon นี้ เป็น Hackathon เพื่อเตรียมพร้อมสำหรับการทำ Human Activity Recognition สำหรับงานแข่ง on-site ณ มหาวิทยาลัยมหิดลในรายการ Mahidol x SuperAI Human Activity Recognition โดยจะให้ข้อมูลของ accelerator sensor ในแกน x , y และ z เพื่อคัดแยกท่าทาง 6 ท่าคือ Walking,Jogging Upstairs,Downstairs,Sitting,Standing โดยสามารถติดตามวิธีการได้ใน Repository นี้ 
