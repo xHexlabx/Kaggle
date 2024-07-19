@@ -21,7 +21,7 @@ https://github.com/xHexlabx/Kaggle/tree/main/Pre_Human_Activity_Recognition
 ##### ⭐ Special Thanks ⭐ 
  <p>
   <ul>
-   <li>Tan 👾 : </li>
+   <li>Tan 👾 : https://github.com/tara-tan</li>
    <li>N'PP 🦆 : https://github.com/Makufff</li>
   </ul>
 </p>
@@ -37,7 +37,7 @@ https://github.com/xHexlabx/Kaggle/tree/main/Human_Activity_Recognition
 ##### ⭐ Special Thanks ⭐ 
  <p>
   <ul>
-   <li>Tan 👾 : </li>
+   <li>Tan 👾 : https://github.com/tara-tan</li>
    <li>N'PP 🦆 : https://github.com/Makufff</li>
   </ul>
 </p>
