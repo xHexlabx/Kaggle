@@ -33,3 +33,11 @@ https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Pre_Human_Activity_Recog
 </p>
 
 https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Human_Activity_Recognition
+
+##### ⭐ Special Thanks ⭐ 
+ <p>
+  <ul>
+   <li>Tan 👾 : https://github.com/tara-tan</li>
+   <li>N'PP 🦆 : https://github.com/Makufff</li>
+  </ul>
+</p>
