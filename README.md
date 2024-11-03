@@ -21,7 +21,7 @@ https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Pre_Human_Activity_Recog
 ##### ⭐ Special Thanks ⭐ 
  <p>
   <ul>
-   <li>N'Jane 🐶 : https://github.com/jjentaa</li>
+   <li>Tan 👾 : https://github.com/tara-tan</li>
    <li>N'PP 🦆 : https://github.com/Makufff</li>
   </ul>
 </p>
