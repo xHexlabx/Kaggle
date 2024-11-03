@@ -16,7 +16,7 @@
  📈 ใน Hackathon นี้ เป็น Hackathon เพื่อเตรียมพร้อมสำหรับการทำ Human Activity Recognition สำหรับงานแข่ง on-site ณ มหาวิทยาลัยมหิดลในรายการ Mahidol x SuperAI Human Activity Recognition โดยจะให้ข้อมูลของ accelerator sensor ในแกน x , y และ z เพื่อคัดแยกท่าทาง 6 ท่าคือ Walking,Jogging Upstairs,Downstairs,Sitting,Standing โดยสามารถติดตามวิธีการได้ใน Repository นี้ 
 </p>
 
-https://github.com/xHexlabx/Kaggle/tree/main/Pre_Human_Activity_Recognition
+https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Pre_Human_Activity_Recognition
 
 ##### ⭐ Special Thanks ⭐ 
  <p>
@@ -32,4 +32,4 @@ https://github.com/xHexlabx/Kaggle/tree/main/Pre_Human_Activity_Recognition
  🥇 ใน Hackathon นี้ เป็น Hackathon สำหรับการทำ Human Activity Recognition on-site ณ มหาวิทยาลัยมหิดลในรายการ Mahidol x SuperAI Human Activity Recognition โดยจะให้ข้อมูลของ accelerator , gyro sensor ในแกน x , y และ z เพื่อคัดแยกท่าทาง 9 ท่าคือ C01 - C09 โดยสามารถติดตามวิธีการได้ใน Repository นี้ (Pipeline นี้ ได้รับรางวัลชนะเลิศ)
 </p>
 
-https://github.com/xHexlabx/Kaggle/tree/main/Human_Activity_Recognition
+https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Human_Activity_Recognition
