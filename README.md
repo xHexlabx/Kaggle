@@ -55,6 +55,8 @@ https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Human_Activity_Recogniti
 
 </p>
 
+https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Durian_Hackathon
+
 ##### ⭐ Special Thanks ⭐ 
  <p>
   <ul>
