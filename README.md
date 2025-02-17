@@ -61,6 +61,6 @@ https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Durian_Hackathon
  <p>
   <ul>
    <li>N'PP 🦆 : https://github.com/Makufff</li>
-   <li>Gun 🦆 : https://github.com/Rufflogix</li>
+   <li>Gun 🐰 : https://github.com/Rufflogix</li>
   </ul>
 </p>
