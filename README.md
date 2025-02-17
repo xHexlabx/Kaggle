@@ -58,7 +58,7 @@ https://github.com/xHexlabx/Kaggle/tree/main/Hackathons/Human_Activity_Recogniti
 ##### ⭐ Special Thanks ⭐ 
  <p>
   <ul>
-   <li>Tan 👾 : https://github.com/tara-tan</li>
+   <li>N'PP 🦆 : https://github.com/Makufff</li>
    <li>Gun 🦆 : https://github.com/Rufflogix</li>
   </ul>
 </p>
